@@ -4,6 +4,10 @@
 		"#minecraft:treasure",
 		"minecraft:riptide",
 		"minecraft:channeling",
+		{
+			"id": "minecraft:lunge",
+			"required": false
+		},
 		"minecraft:sharpness",
 		"minecraft:smite",
 		"nadir:illagers_bane",

@@ -21,6 +21,10 @@
 		"minecraft:carrot_on_a_stick",
 		"minecraft:warped_fungus_on_a_stick",
 		"minecraft:mace",
+		{
+			"id": "#minecraft:spears",
+			"required": false
+		},
 		"minecraft:wolf_armor"
 	]
 }

@@ -35,6 +35,10 @@
 		"minecraft:piercing",
 		"minecraft:density",
 		"minecraft:breach",
+		{
+			"id": "minecraft:lunge",
+			"required": false
+		},
 		"nadir:illagers_bane",
 		"nadir:familiarity",
 		"nadir:magic_protection",
